@@ -1,0 +1,128 @@
+/* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+and (min-device-width: 320px) 
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+  .landingpg_heading_background { margin-top: 51% !important; height: 26vh !important;}
+  /* .overlay1 { height: 120vh !important; } */
+  .landingpg_heading_background2 {overflow: hidden !important;}
+  .itbackground { margin-top: 10% !important; }
+  .industrybg {  overflow: hidden !important;  padding: 5% 5% 7% 5% !important;}
+  #motiv_quote3 { text-align: center; }
+  #benefit_heading { text-align: center; }
+  .benefit_reason_heading { text-align: center; }
+  .benefit_reason_explanation { text-align: center; }
+  .brand_name_footer { text-align: center; }
+  .brand_name_footer_sub { text-align: center; }
+  .solution_field { text-align: center; }
+  .solution_category { text-align: center; }
+  #motiv_quote3 { font-size: 220%; }
+  .benefit_reason_heading { font-size: 250%; }
+  .fa-3x { font-size: 2em;}
+  .solution_field_icon { text-align: center !important; float: none;}
+  .solution_field_heading { font-size: 214%; font-weight: bold; }
+  .btn-solution-type { font-size: 80%; }
+  .btn-solution-type { float: none !important; }
+  .scrill-down { margin-top: 25%;}
+  #motiv_quote2 { margin-top: 3% !important; font-size: 200%; }
+  #motiv_quote5 { font-size: 150% !important; }
+  .solution_category { font-size: 250%;}
+  #section06 a { padding-top: 0px;}
+  .content-section1 { margin-top: -50px;}
+  .solution_field_bpofeat { text-align: center; }
+}
+
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+and (min-device-width: 320px) 
+and (max-device-width: 568px)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+
+}
+
+
+/* ----------- Galaxy S3 ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+and (device-width: 320px) 
+and (device-height: 640px) 
+and (-webkit-device-pixel-ratio: 2) {
+  .landingpg_heading_background2 {overflow: hidden !important;}
+  .itbackground { margin-top: 150% !important; }
+  .industrybg {  overflow: hidden !important;}
+
+}
+
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+and (min-device-width: 375px) 
+and (max-device-width: 667px) 
+and (-webkit-min-device-pixel-ratio: 2) { 
+  .landingpg_heading_background2 {overflow: hidden !important;}
+  .itbackground { margin-top: 150% !important; }
+  .industrybg {  overflow: hidden !important;}
+
+}
+
+@media only screen 
+and (min-device-width: 384px) 
+and (max-device-width: 667px) 
+and (-webkit-min-device-pixel-ratio: 2) { 
+  .landingpg_heading_background2 {overflow: hidden !important;}
+  .itbackground { margin-top: 10% !important; }
+  .industrybg {  overflow: hidden !important;}
+  .landingpg_heading_background { margin-top: 51% !important; height: 17vh !important;}
+
+}
+
+/* ----------- iPhone 6+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+and (min-device-width: 414px) 
+and (max-device-width: 736px) 
+and (-webkit-min-device-pixel-ratio: 3) { 
+  .landingpg_heading_background2 {overflow: hidden !important;}
+  .itbackground { margin-top: 150% !important; }
+  .industrybg {  overflow: hidden !important;}
+  #motiv_quote3 { text-align: center; }
+  #benefit_heading { text-align: center; }
+  .benefit_reason_heading { text-align: center; }
+  .benefit_reason_explanation { text-align: center; }
+  .brand_name_footer { text-align: center; }
+  .brand_name_footer_sub { text-align: center; }
+  .solution_field { text-align: center; }
+  .solution_category { text-align: center; }
+}
+
+/* ----------- iPad mini ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+and (min-device-width: 768px) 
+and (max-device-width: 1024px) 
+and (-webkit-min-device-pixel-ratio: 1) {
+
+  .landingpg_heading_background2 {overflow: hidden !important;}
+  .itbackground { margin-top: 150% !important; }
+  .industrybg {  overflow: hidden !important;}
+
+}
+
+
+/* ----------- Non-Retina Screens ----------- */
+@media screen 
+and (min-device-width: 1200px) 
+and (max-device-width: 1600px) 
+and (-webkit-min-device-pixel-ratio: 1) { 
+
+}
